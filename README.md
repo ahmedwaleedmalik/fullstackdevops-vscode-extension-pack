@@ -23,6 +23,7 @@
 19. Browser Preview
 20. Gitlink
 21. Path Intellisense
+22. Import Cost
 
 ## React native
 
