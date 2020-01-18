@@ -1,0 +1,50 @@
+{
+  "name": "fullstackdevops-vscode-extension-pack",
+  "displayName": "fullstackdevops-vscode-extension-pack",
+  "description": "VS code extension pack for full stack DevOps",
+  "version": "0.0.1",
+  "publisher": "ahmedwaleedmalik",
+  "engines": {
+    "vscode": "^1.41.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "icon": "images/icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ahmedwaleedmalik/fullstackdevops-vscode-extension-pack"
+  },
+  "extensionPack": [
+    "eamodio.gitlens",
+    "alefragnani.numbered-bookmarks",
+    "esbenp.prettier-vscode",
+    "dbaeumer.vscode-eslint",
+    "CoenraadS.bracket-pair-colorizer-2",
+    "quicktype.quicktype",
+    "msjsdiag.debugger-for-chrome",
+    "Equinusocio.vsc-material-theme",
+    "Kief.material-icon-theme",
+    "formulahendry.auto-rename-tag",
+    "humao.rest-client",
+    "christian-kohler.path-intellisense",
+    "pranaygp.vscode-css-peek",
+    "ecmel.vscode-html-css",
+    "auchenberg.vscode-browser-preview",
+    "qezhu.gitlink",
+    "streetsidesoftware.code-spell-checker",
+    "yzhang.markdown-all-in-one",
+    "WakaTime.vscode-wakatime",
+    "donjayamanne.githistory",
+    "TzachOvadia.todo-list",
+    "Dart-Code.flutter",
+    "alexisvt.flutter-snippets",
+    "Nash.awesome-flutter-snippets",
+    "d4nyll.devops-extension-pack",
+    "bierner.react-native-ios-pack",
+    "waderyan.nodejs-extension-pack",
+    "Pivotal.vscode-boot-dev-pack",
+    "johnpapa.angular-essentials",
+    "MS-vsliveshare.vsliveshare-pack"
+  ]
+}
